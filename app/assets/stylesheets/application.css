@@ -41,7 +41,8 @@
   margin: 0px;
   color: purple;
   padding: 10px 15px;
-  background-color: fff;
+  background-color: #ff6e00;
+  border: none;
 }
 
 a {
@@ -67,6 +68,10 @@ a:visited {
 .thumbnail {
   width: 100%;
   display: block;
+}
+
+.otherlinks {
+  float: right;
 }
 
 .row{
